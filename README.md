@@ -1,65 +1,41 @@
-<!-- Título moderno centrado -->
-<h1 align="center">✨ ¡Hola! Soy <span style="color:#A2D2FF;">Doris Valverde Jara</span> 👩‍💻</h1>
-<h3 align="center">Frontend Developer apasionada por el diseño, el código y la creatividad 🎨</h3>
+# Hola, soy Doris Valverde 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreadavj/andreadavj/main/assets/banner-frontend.png" alt="banner" />
-</p>
+## Ingeniera en Construcción & Desarrolladora Front-End
 
+Soy una profesional con formación en ingeniería que ha descubierto su pasión por el desarrollo web. Mi experiencia en construcción me ha dado habilidades valiosas en resolución de problemas, atención al detalle y gestión de proyectos que ahora aplico al mundo digital.
 
----
+### 💻 Mis habilidades técnicas
 
-### 🌈 ¿Quién soy?
+- **HTML5 & CSS3:** Diseño responsivo, Flexbox, Grid, Media Queries
+- **Frameworks CSS:** Bootstrap
+- **JavaScript:** ES6+, manipulación del DOM
+- **React:** Componentes, Hooks, Estado
+- **Bases de datos:** SQL básico
+- **Control de versiones:** Git, GitHub
 
-Soy una desarrolladora frontend con una mirada creativa, alegre y enfocada en construir experiencias web únicas, modernas y funcionales.  
-Mi base profesional es la ingeniería en construcción, pero mi pasión es el desarrollo frontend.  
-Actualmente estoy perfeccionando mis proyectos y conocimientos en React y tecnologías modernas del frontend.
+### 🌱 Actualmente estoy aprendiendo
 
-- 🛠️ Me encanta trabajar con **React, JavaScript, Vite y CSS moderno**
-- 📚 Formación en desarrollo web gracias a **Desafío Latam**
-- 👷‍♀️ Ingeniera en Construcción titulada de INACAP
-- 🚀 Buscando oportunidades para crecer como **Frontend Developer**
+- Backend (en progreso)
+- Tailwind CSS
+- TypeScript
 
----
+### 🚀 Proyectos destacados
 
-### 💼 Tecnologías que uso
+- [Mi Portafolio Web](https://andreadavj.github.io/doris-valverde.github.io/)
+- [Proyecto jwt](https://github.com/Andreadavj/react-jwt) 
+- [Proyecto api](https://github.com/Andreadavj/react-api) 
+- [Proyecto backend-likeme](https://github.com/Andreadavj/react-api) 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github" />
-</p>
+### 📫 Contáctame
 
----
+- [LinkedIn](https://www.linkedin.com/in/dorisvalverde/)
+- [Email](mailto:andrea.avj03@gmail.com.com)
 
-### 🧠 Proyectos destacados
+### 🔍 Sobre mí
 
-| 🌟 Proyecto | 🚀 Tecnologías | 🔗 Enlace |
-|------------|----------------|-----------|
-| **Portafolio Web** | React, Vite, CSS moderno | [🔗 Ver sitio](https://andreadavj.github.io/) |
-| **Pizzería Mamma Mia!** | React, Context API, Router | [📁 Ver GitHub](https://github.com/Andreadavj/pizzeria-mamma-mia) |
-| **E-Sueño (escuela de música)** | Express.js + JSON local | [📁 Ver GitHub](https://github.com/Andreadavj/e-sueno) |
+Aprendo rápido y me apasiona crear experiencias digitales intuitivas y atractivas. Mi formación en ingeniería me permite abordar los problemas con una perspectiva única, combinando pensamiento analítico con creatividad.
 
 ---
 
-### 📊 Mis estadísticas
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreadavj&layout=compact&theme=radical" width="47%" />
-</p>
-
----
-
-### 📫 ¡Conectemos!
-
-- 💌 **andrea.avj03@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/dorisvalverdejara)  
-- 🌐 [Portafolio Web](https://andreadavj.github.io/)
-
----
-
-<p align="center">
   💖 *Gracias por visitar mi perfil. Si te gusta lo que ves, ¡no dudes en dejarme una ⭐ en mis proyectos!* 💖
 </p>
