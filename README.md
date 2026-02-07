@@ -1,41 +1,70 @@
 # Hola, soy Doris Valverde 👋
 
-## Ingeniera en Construcción & Desarrolladora Front-End
+## Frontend Developer (React) | Full Stack Trainee  
+Ingeniera en Construcción en transición al desarrollo web
 
-Soy una profesional con formación en ingeniería que ha descubierto su pasión por el desarrollo web. Mi experiencia en construcción me ha dado habilidades valiosas en resolución de problemas, atención al detalle y gestión de proyectos que ahora aplico al mundo digital.
+Soy ingeniera en construcción con formación en desarrollo frontend, especializada en **React y JavaScript**, actualmente ampliando mis conocimientos en **backend con Node.js, Express y PostgreSQL**.
 
-### 💻 Mis habilidades técnicas
-
-- **HTML5 & CSS3:** Diseño responsivo, Flexbox, Grid, Media Queries
-- **Frameworks CSS:** Bootstrap
-- **JavaScript:** ES6+, manipulación del DOM
-- **React:** Componentes, Hooks, Estado
-- **Bases de datos:** SQL básico
-- **Control de versiones:** Git, GitHub
-
-### 🌱 Actualmente estoy aprendiendo
-
-- Backend (en progreso)
-- Tailwind CSS
-- TypeScript
-
-### 🚀 Proyectos destacados
-
-- [Mi Portafolio Web](https://andreadavj.github.io/doris-valverde.github.io/)
-- [Proyecto jwt](https://github.com/Andreadavj/react-jwt) 
-- [Proyecto api](https://github.com/Andreadavj/react-api) 
-- [Proyecto backend-likeme](https://github.com/Andreadavj/react-api) 
-
-### 📫 Contáctame
-
-- [LinkedIn](https://www.linkedin.com/in/dorisvalverde/)
-- [Email](mailto:andrea.avj03@gmail.com.com)
-
-### 🔍 Sobre mí
-
-Aprendo rápido y me apasiona crear experiencias digitales intuitivas y atractivas. Mi formación en ingeniería me permite abordar los problemas con una perspectiva única, combinando pensamiento analítico con creatividad.
+Mi experiencia en ingeniería me aportó pensamiento lógico, disciplina y enfoque en resolución de problemas, habilidades que hoy aplico al desarrollo de aplicaciones web.
 
 ---
 
+## 💻 Tecnologías y habilidades
+
+### Frontend
+- HTML5, CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript ES6+
+- React (Hooks, manejo de estado, Context)
+- Consumo de APIs REST
+- React Router
+
+### Backend (en formación)
+- Node.js
+- Express
+- PostgreSQL
+- Autenticación con JWT
+
+### Otras herramientas
+- Git & GitHub
+- Bootstrap
+- SQL básico
+
+---
+
+## 🌱 Actualmente aprendiendo
+- Backend avanzado (Node + PostgreSQL)
+- Tailwind CSS
+- TypeScript
+
+---
+
+## 🚀 Proyectos destacados
+
+- 🌐 **Portafolio Web**  
+  👉 https://andreadavj.github.io/doris-valverde.github.io/
+
+- 🔐 **Autenticación con JWT (React)**  
+  👉 https://github.com/andreadavj-desafio-latam/react-jwt
+
+- 🔗 **Consumo de API con React**  
+  👉 https://github.com/andreadavj-desafio-latam/react-api
+  
+- 🧠 **Backend LikeMe (Node + Express)**  
+  👉 https://github.com/andreadavj-desafio-latam/backend-likemill
+
+---
+
+## 🎯 Objetivo profesional
+
+Busco mi **oportunidad como Frontend Developer o Full Stack**, donde pueda seguir aprendiendo, aportar con compromiso y crecer en un equipo de desarrollo.
+
+---
+
+## 📫 Contacto
+
+- 🔗 LinkedIn: www.linkedin.com/in/dorisvalverde
+- 📧 Email: andrea.avj03@gmail.com
+
+
   💖 *Gracias por visitar mi perfil. Si te gusta lo que ves, ¡no dudes en dejarme una ⭐ en mis proyectos!* 💖
-</p>
+
