@@ -1,70 +1,85 @@
-# Hola, soy Doris Valverde 👋
+👋 Hola, soy Doris Andrea Valverde Jara
 
-## Frontend Developer (React) | Full Stack Trainee  
-Ingeniera en Construcción en transición al desarrollo web
+💻 Full Stack JavaScript Developer especializada en React y MERN Stack.
+🚀 Apasionada por crear aplicaciones web modernas, responsivas y escalables.
+🎯 Actualmente enfocada en desarrollo Frontend con React, JavaScript y experiencias UI atractivas.
 
-Soy ingeniera en construcción con formación en desarrollo frontend, especializada en **React y JavaScript**, actualmente ampliando mis conocimientos en **backend con Node.js, Express y PostgreSQL**.
+👩‍💻 Sobre mí
 
-Mi experiencia en ingeniería me aportó pensamiento lógico, disciplina y enfoque en resolución de problemas, habilidades que hoy aplico al desarrollo de aplicaciones web.
+Soy desarrolladora Full Stack JavaScript con experiencia construyendo aplicaciones SPA, APIs REST y sistemas completos utilizando tecnologías modernas como React, Node.js, Express, MongoDB y PostgreSQL.
 
----
+Además, cuento con experiencia liderando equipos bajo metodologías Agile/Scrum, organizando proyectos y resolviendo problemas de manera eficiente.
 
-## 💻 Tecnologías y habilidades
+Mi objetivo es seguir creciendo profesionalmente como Frontend Developer y participar en proyectos innovadores donde pueda aportar creatividad, rendimiento y buenas prácticas de desarrollo.
 
-### Frontend
-- HTML5, CSS3 (Flexbox, Grid, Responsive Design)
-- JavaScript ES6+
-- React (Hooks, manejo de estado, Context)
-- Consumo de APIs REST
-- React Router
+🚀 Tecnologías y Herramientas
+Frontend
+HTML5
+CSS3
+JavaScript ES6+
+React
+Vite
+Tailwind CSS
+Bootstrap
+Responsive Design
+Backend
+Node.js
+Express.js
+REST APIs
+JWT Authentication
+Bases de Datos
+MongoDB
+PostgreSQL
+SQL / NoSQL
+Herramientas
+Git
+GitHub
+NPM
+Scrum
+Agile
+📌 Proyectos Destacados
+🏢 WorkHub – Sistema de Gestión Coworking
 
-### Backend (en formación)
-- Node.js
-- Express
-- PostgreSQL
-- Autenticación con JWT
+Aplicación Full Stack para administración de espacios de coworking.
 
-### Otras herramientas
-- Git & GitHub
-- Bootstrap
-- SQL básico
+✔ Gestión de reservas
+✔ API REST
+✔ Autenticación JWT
+✔ MongoDB + PostgreSQL
+✔ Trabajo colaborativo Agile
 
----
+🔗 Demo: WorkHub Demo
 
-## 🌱 Actualmente aprendiendo
-- Backend avanzado (Node + PostgreSQL)
-- Tailwind CSS
-- TypeScript
+🍕 Pizzería Mamma Mia
 
----
+SPA desarrollada con React consumiendo APIs externas.
 
-## 🚀 Proyectos destacados
+✔ Componentes reutilizables
+✔ React Hooks
+✔ Responsive Design
+✔ Manejo de estado
 
-- 🌐 **Portafolio Web**  
-  👉 https://andreadavj.github.io/doris-valverde.github.io/
+❤️ Like Me App
 
-- 🔐 **Autenticación con JWT (React)**  
-  👉 https://github.com/andreadavj-desafio-latam/react-jwt
+Backend API con autenticación JWT y PostgreSQL.
 
-- 🔗 **Consumo de API con React**  
-  👉 https://github.com/andreadavj-desafio-latam/react-api
-  
-- 🧠 **Backend LikeMe (Node + Express)**  
-  👉 https://github.com/andreadavj-desafio-latam/backend-likemill
+✔ CRUD completo
+✔ Express.js
+✔ PostgreSQL
+✔ Seguridad con JWT
 
----
+🌱 Actualmente aprendiendo
+Tailwind CSS avanzado
+Arquitectura Frontend
+Optimización de rendimiento en React
+TypeScript
+Testing
+📫 Contacto
 
-## 🎯 Objetivo profesional
+📍 Santiago, Chile
+📧 andrea.avj03@gmail.com
 
-Busco mi **oportunidad como Frontend Developer o Full Stack**, donde pueda seguir aprendiendo, aportar con compromiso y crecer en un equipo de desarrollo.
-
----
-
-## 📫 Contacto
-
-- 🔗 LinkedIn: www.linkedin.com/in/dorisvalverde
-- 📧 Email: andrea.avj03@gmail.com
-
-
-  💖 *Gracias por visitar mi perfil. Si te gusta lo que ves, ¡no dudes en dejarme una ⭐ en mis proyectos!* 💖
-
+Redes
+LinkedIn
+GitHub
+Portafolio Web
