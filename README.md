@@ -13,7 +13,7 @@
 </a>
 &nbsp;
 <a href="mailto:dorisvalverde.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-andrea.avj03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+ [ <img src="https://img.shields.io/badge/Email-andrea.avj03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](https://img.shields.io/badge/Email-dorisvalverde.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 
 <br/><br/>
