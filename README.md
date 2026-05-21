@@ -196,7 +196,7 @@ Single Page Application con arquitectura de componentes reutilizables y consumo 
 | Canal | Enlace |
 |---|---|
 | 📍 Ubicación | Santiago, Chile |
-| 📧 Email | [andrea.avj03@gmail.com](mailto:andrea.avj03@gmail.com) |
+| 📧 Email | [andrea.avj03@gmail.com](mailto:dorisvalverde.dev@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/dorisvalverde](https://linkedin.com/in/dorisvalverde) |
 | 🌐 Portafolio | [portafolio-dorisvalverde.vercel.app](https://portafolio-dorisvalverde.vercel.app) |
 | 💻 GitHub | [github.com/Andreadavj](https://github.com/Andreadavj) |
