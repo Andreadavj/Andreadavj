@@ -15,6 +15,7 @@
 <a href="mailto:dorisvalverde.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-dorisvalverde.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1A5494&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Scrum+Master+%26+Product+Owner+%F0%9F%8E%AF;Construyendo+apps+modernas+y+escalables+%F0%9F%92%BB" />
@@ -195,7 +196,7 @@ Single Page Application con arquitectura de componentes reutilizables y consumo 
 | Canal | Enlace |
 |---|---|
 | 📍 Ubicación | Santiago, Chile |
-| 📧 Email | [andrea.avj03@gmail.com](mailto:dorisvalverde.dev@gmail.com) |
+| 📧 Email | [dorisvalverde.dev@gmail.com](mailto:dorisvalverde.dev@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/dorisvalverde](https://linkedin.com/in/dorisvalverde) |
 | 🌐 Portafolio | [portafolio-dorisvalverde.vercel.app](https://portafolio-dorisvalverde.vercel.app) |
 | 💻 GitHub | [github.com/Andreadavj](https://github.com/Andreadavj) |
